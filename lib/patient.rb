@@ -14,6 +14,7 @@ class Patient
 
   def self.all
     @@all 
+    #lists each instance of a patient from the class variable 
   end
 
   def doctors
